@@ -1,10 +1,24 @@
 [
   {
+    "objectID": "videos.html",
+    "href": "videos.html",
+    "title": "Videos",
+    "section": "",
+    "text": "Coming soon 🎥"
+  },
+  {
+    "objectID": "gallery.html",
+    "href": "gallery.html",
+    "title": "Through the Years",
+    "section": "",
+    "text": "Our Journey Through the Years 💕\nHere’s a look back at our favorite memories through the years — moments that brought us closer and made our story beautiful. 💍\n\n\n&lt;img src=\"images/year2.JPG\" alt=\"Year 2 - Our early adventures\"&gt;\n&lt;p&gt;Year 2 — Our early adventures 💫&lt;/p&gt;\n\n\n&lt;img src=\"images/year4.jpeg\" alt=\"Year 4 - Growing together\"&gt;\n&lt;p&gt;Year 4 — Growing together 🌺&lt;/p&gt;\n\n\n&lt;img src=\"images/year5.jpg\" alt=\"Year 5 - Milestones and memories\"&gt;\n&lt;p&gt;Year 5 — Milestones and memories 📸&lt;/p&gt;\n\n\n&lt;img src=\"images/year7.JPG\" alt=\"Year 7 - The proposal\"&gt;\n&lt;p&gt;Year 7 — The proposal 💍&lt;/p&gt;\n\n\n&lt;img src=\"images/year8.jpeg\" alt=\"Year 8 - Our forever begins\"&gt;\n&lt;p&gt;Year 8 — Our forever begins ❤️&lt;/p&gt;"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "KarlNMatias.github.io",
+    "title": "Wedding Gift",
     "section": "",
-    "text": "This is a Quarto website. jasdnfsdansa\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Welcome!\nWe’re so excited to share this special moment with you.\nHere you’ll find a collection of photos, videos, and memories that capture our love story.\n\n\n\n\n\nCountdown to Our Wedding 💕"
   },
   {
     "objectID": "about.html",

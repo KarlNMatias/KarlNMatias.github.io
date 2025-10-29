@@ -1,0 +1,36 @@
+---
+title: "Through the Years"
+---
+
+# Our Journey Through the Years 💕
+
+Here’s a look back at our favorite memories through the years — moments that brought us closer and made our story beautiful. 💍
+
+<div class="photo-grid">
+  <div class="photo">
+    <img src="images/year2.JPG" alt="Year 2 - Our early adventures">
+    <p>Year 2 — Our early adventures 💫</p>
+  </div>
+
+  <div class="photo">
+    <img src="images/year4.jpeg" alt="Year 4 - Growing together">
+    <p>Year 4 — Growing together 🌺</p>
+  </div>
+
+  <div class="photo">
+    <img src="images/year5.jpg" alt="Year 5 - Milestones and memories">
+    <p>Year 5 — Milestones and memories 📸</p>
+  </div>
+
+  <div class="photo">
+    <img src="images/year7.JPG" alt="Year 7 - The proposal">
+    <p>Year 7 — The proposal 💍</p>
+  </div>
+
+  <div class="photo">
+    <img src="images/year8.jpeg" alt="Year 8 - Our forever begins">
+    <p>Year 8 — Our forever begins ❤️</p>
+  </div>
+</div>
+
+

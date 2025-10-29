@@ -1,1 +1,105 @@
-/* css styles */
+/* ====== HERO COVER SECTION ====== */
+.hero {
+  background-image: url("images/cover.png");
+  background-size: cover;
+  background-position: center;
+  height: 70vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: white;
+  font-family: 'Poppins', sans-serif;
+  position: relative;
+}
+
+.hero-text {
+  background: rgba(0, 0, 0, 0.4);
+  padding: 30px 50px;
+  border-radius: 15px;
+}
+
+.hero-text h1 {
+  font-size: 3rem;
+  margin: 0;
+  font-weight: bold;
+}
+
+.hero-text p {
+  margin: 10px 0 0;
+  font-size: 1.5rem;
+  font-weight: 500;
+}
+
+.center {
+  text-align: center;
+}
+
+/* ====== BODY & COLORS ====== */
+body {
+  background-color: #fff8f8;
+  color: #333;
+  font-family: 'Poppins', sans-serif;
+}
+
+/* ====== COUNTDOWN SECTION ====== */
+.countdown {
+  text-align: center;
+  margin-top: 40px;
+  padding: 20px;
+  font-size: 1.6rem;
+  color: #b52e6f;
+  font-weight: bold;
+  background-color: #ffe6ef;
+  border: 2px solid #b52e6f;
+  border-radius: 12px;
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.countdown h2 {
+  margin-bottom: 10px;
+  color: #b52e6f;
+  text-shadow: 1px 1px 5px rgba(181,46,111,0.3);
+}
+
+/* ====== GALLERY PHOTO GRID ====== */
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 25px;
+  margin-top: 40px;
+  margin-bottom: 60px;
+  max-width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.photo {
+  text-align: center;
+  background-color: #fff0f6;
+  padding: 15px;
+  border-radius: 15px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.photo:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.25);
+}
+
+.photo img {
+  width: 100%;
+  border-radius: 12px;
+  margin-bottom: 10px;
+}
+
+.photo p {
+  color: #b52e6f;
+  font-style: italic;
+  font-size: 1rem;
+  margin: 0;
+}
