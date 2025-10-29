@@ -1,11 +1,43 @@
 ---
-title: "KarlNMatias.github.io"
+title: "Wedding Gift"
+image: images/cover.png
 ---
 
-121
+<section class="hero">
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+</section>
 
-```{r}
-1 + 1
+# Welcome!
+
+We’re so excited to share this special moment with you.\
+Here you’ll find a collection of photos, videos, and memories that capture our love story.
+
+::: center
+<img src="images/abby.PNG" alt="Our Wedding" width="80%"/>
+:::
+
+::: countdown
+<h2>Countdown to Our Wedding 💕</h2>
+
+<p id="timer">
+
+</p>
+:::
+
+```{=html}
+<script>
+const weddingDate = new Date("November 22, 2026 00:00:00").getTime();
+const timer = document.getElementById("timer");
+setInterval(() => {
+  const now = new Date().getTime();
+  const distance = weddingDate - now;
+
+  const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  timer.innerHTML = `${days} days ${hours} hrs ${minutes} min ${seconds} sec`;
+}, 1000);
+</script>
 ```
