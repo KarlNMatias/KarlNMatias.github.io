@@ -10,7 +10,7 @@ image: images/cover.png
 # Welcome!
 
 We’re so excited to share this special moment with you.\
-Here you’ll find a collection of photos, videos, and memories that capture our love story.
+Here you’ll find a collection of photos, videos, and memosries that capture our love story.
 
 ::: center
 <img src="images/abby.PNG" alt="Our Wedding" width="80%"/>
