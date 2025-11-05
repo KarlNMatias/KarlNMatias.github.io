@@ -17,7 +17,7 @@ Here you’ll find a collection of photos, videos, and memosries that capture ou
 :::
 
 ::: countdown
-<h2>Countdown to Our Wedding 💕</h2>
+<h2>Countdown to Our Weddings 💕</h2>
 
 <p id="timer">
 
